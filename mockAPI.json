@@ -1,0 +1,93 @@
+{
+  "vehicles": [
+    {
+      "vin": "abcd123",
+      "licensePlate": "CBDH 789",
+      "make": "Jaguar",
+      "model": "IPace",
+      "state": null
+    },
+    {
+      "vin": "xyz12345",
+      "licensePlate": "86532 AZE",
+      "make": "Tesla",
+      "model": "3",
+      "state": null
+    },
+    {
+      "vin": "173hvidvde",
+      "licensePlate": "987 XWE",
+      "make": "Tesla",
+      "model": "3",
+      "state": null
+    }
+  ],
+  "history": [
+    {
+      "vin": "abcd123",
+      "licensePlate": "CBDH 789",
+      "make": "Jaguar",
+      "model": "IPace",
+      "state": {
+        "odometerInMeters": 789000,
+        "speedInMph": 100,
+        "asAt": "2021-02-01T00:00:00+00:00"
+      }
+    },
+    {
+      "vin": "xyz12345",
+      "licensePlate": "86532 AZE",
+      "make": "Tesla",
+      "model": "3",
+      "state": {
+        "odometerInMeters": 48280320,
+        "speedInMph": 10.1,
+        "asAt": "2021-02-01T00:00:00+00:00"
+      }
+    },
+    {
+      "vin": "173hvidvde",
+      "licensePlate": "987 XWE",
+      "make": "Tesla",
+      "model": "3",
+      "state": {
+        "odometerInMeters": 43280320,
+        "speedInMph": 10.1,
+        "asAt": "2021-02-01T00:00:00+00:00"
+      }
+    },
+    {
+      "vin": "abcd123",
+      "licensePlate": "CBDH 789",
+      "make": "Jaguar",
+      "model": "IPace",
+      "state": {
+        "odometerInMeters": 949934,
+        "speedInMph": 30.7,
+        "asAt": "2021-02-28T23:59:00+00:00"
+      }
+    },
+    {
+      "vin": "xyz12345",
+      "licensePlate": "86532 AZE",
+      "make": "Tesla",
+      "model": "3",
+      "state": {
+        "odometerInMeters": 51499008,
+        "speedInMph": 89,
+        "asAt": "2021-02-28T23:59:00+00:00"
+      }
+    },
+    {
+      "vin": "173hvidvde",
+      "licensePlate": "987 XWE",
+      "make": "Tesla",
+      "model": "3",
+      "state": {
+        "odometerInMeters": 47199008,
+        "speedInMph": 89,
+        "asAt": "2021-02-28T23:59:00+00:00"
+      }
+    }
+  ]
+}
